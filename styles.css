@@ -1,0 +1,129 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+.B{
+  width: 100%;
+  position: relative;
+}
+
+.navbar {
+  position: absolute;
+  top:0;
+  z-index: 999;
+  width: 100%
+
+}
+ul li a {
+    color:red;
+}
+
+.nav{
+  font-size: 13px;
+  padding-right: 2px;
+  
+} 
+
+li a{
+  color: white;
+  text-decoration: none;
+}
+ul li {
+  font-color: black;
+  font-weight: bold;
+  padding-right: 9px;
+
+}
+.maintxt{
+ position: absolute;
+ top: 30%;
+ color: white;
+ 
+ display: block;
+ z-index: 99;
+
+
+}
+.shdw{
+  position: relative;
+  min-height: 400px; 
+  background-repeat: 
+  no-repeat;background-size: 100%; 
+  background-position: top;
+  top: 50px;
+}
+.D{
+  width: 100%;
+  opacity: 0.3;
+}
+.text{
+  text-align: center;
+
+}
+.text p {
+  font-size: 11px;
+}
+.E{
+  position: absolute;
+  width: 100%;
+  margin-top: -200px;
+}
+h4{
+  text-align: center;
+  padding-top: 30px;
+}
+.hln{
+  width: 280px;
+}
+.steps{
+  text-align: center;
+  opacity: 0.3;
+  padding-top: 2px;
+ 
+}
+.vl{
+border-left: 1px solid black;
+height: 160px;
+position: absolute;
+left: 50%;
+opacity: 0.3;
+}
+.vl1{
+border-left: 1px solid black;
+height: 180px;
+position: absolute;
+left: 50%;
+opacity: 0.3;
+}
+.step3{
+  text-align: center;
+  opacity: 0.3;
+  padding-top: 10px;
+}
+.Ad1{
+  color: #6C5656;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  opacity: 0.5;
+
+}
+
+.hln1{
+  width: 380px;
+}
+.hln2{
+
+  width: 80px;
+}
+.col-md-12{
+ padding:10px;
+}
+
+{
+	color: black;
+}
+
+
+
+
+
